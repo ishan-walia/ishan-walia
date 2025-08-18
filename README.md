@@ -6,6 +6,23 @@
 [![Leetcode: Ishanwalia](https://img.shields.io/badge/LeetCode-Ishanwalia-orange)](https://leetcode.com/Ishan7579/)
 [![Linkedin: Ishanwalia](https://img.shields.io/badge/LinkedIn-Ishanwalia-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishanwalia7579/)
 [![GitHub Ishanwalia](https://img.shields.io/github/followers/ishanwalia7579?label=follow&style=social)](https://github.com/ishanwalia7579)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-IshanWalia-FE7A16?logo=stack-overflow)](https://stackoverflow.com/users/your-id)
+
+<br>
+<p align="right">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" 
+    width="180" 
+    alt="Funny error animation">
+ <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="190" alt="Coding Meme"/>
+   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Debugging"/>
+  
+  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="200" alt="Works First Try"/>
+  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="220" alt="Waiting for code to compile"/>
+</p>
+
+
+
 
 ## 🚀 My Google Developer Identity Profile
 [![Learning on Google Developers](https://img.shields.io/badge/Google%20Developers-Learner-blue?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/ishanwalia)
@@ -16,7 +33,7 @@
     <br><br>
     <img src="https://img.shields.io/badge/Google%20Developer-%231DA1F2.svg?style=for-the-badge&logo=Google&logoColor=white" />
     <br><br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&center=true&vCenter=true&lines=Ishan+Walia+on+Google+Developer;AI+%7C+Cyber+Security+%7C+App+Developer;Let's+Connect+and+Build+Together!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&center=true&vCenter=true&lines=Ishan+Walia+on+Google+Developer;App+Developer;Let's+Connect+and+Build+Together!" />
   </a>
 </div>
 
@@ -84,3 +101,5 @@ SQL        15 mins          █▒░░░░░░░░░░░░░░░�
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 <br>
+
+[![Ishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishanwalia7579&bg_color=0d1117&color=00fffb&line=00fffb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
