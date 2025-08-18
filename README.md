@@ -9,7 +9,7 @@
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-IshanWalia-FE7A16?logo=stack-overflow)](https://stackoverflow.com/users/your-id)
 
 <br>
-<p align="right">
+<p>
   <img 
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" 
     width="180" 
