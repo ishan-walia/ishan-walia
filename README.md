@@ -92,8 +92,8 @@ SQL        15 mins          █▒░░░░░░░░░░░░░░░�
 </div>
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanwalia7579&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanwalia7579&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishan-walia&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-walia&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
