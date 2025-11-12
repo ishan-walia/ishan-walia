@@ -84,7 +84,7 @@ SQL        15 mins          █▒░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 ## 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishanwalia7579&theme=onestar&row=2&column=4&no-bg=true&no-frame=true&margin-w=22&margin-h=20" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ishan-walia&theme=onestar&row=2&column=4&no-bg=true&no-frame=true&margin-w=22&margin-h=20" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
