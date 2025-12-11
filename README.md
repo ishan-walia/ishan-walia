@@ -3,7 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ishan-walia&color=blue)](https://github.com/ishan-walia)]
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2054%20mins-blue)
 
-[![Leetcode: Ishanwalia](https://img.shields.io/badge/LeetCode-Ishanwalia-orange)](https://leetcode.com/Ishan7579/)
+[![Leetcode: Ishanwalia](https://img.shields.io/badge/LeetCode-Ishanwalia-orange)](https://leetcode.com/u/Ishanwalia/)
 [![Linkedin: Ishanwalia](https://img.shields.io/badge/LinkedIn-Ishanwalia-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishan-walia/)
 [![GitHub Ishanwalia](https://img.shields.io/github/followers/ishanwalia7579?label=follow&style=social)](https://github.com/ishan-walia)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-IshanWalia-FE7A16?logo=stack-overflow)](https://stackoverflow.com/users/your-id)
