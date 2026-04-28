@@ -19,26 +19,49 @@
 
   
 </p>
-<h2>🚀 Languages</h2>
+<h2>🔐 Cyber Security</h2>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
-<h2>🛠️ Technologies</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <!-- OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40"/>
 </p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Netcat-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-red?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <!-- More Tools -->
+  <img src="https://img.shields.io/badge/Hydra-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gobuster-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ghidra-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Aircrack--ng-blue?style=for-the-badge"/>
+</p>
+
+<h2>📱 App Development</h2>
+<p align="center">
+  <!-- Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  
+  <!-- Backend / Services -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40"/>
+  
+  <!-- UI / Markup -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
+</p>
+
 ## 🏆 GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ishan-walia&theme=onestar&row=2&column=4&no-bg=true&no-frame=true&margin-w=22&margin-h=20" alt="GitHub Trophies" />
