@@ -6,9 +6,6 @@
 
 [![Leetcode: Ishanwalia](https://img.shields.io/badge/LeetCode-Ishanwalia-orange)](https://leetcode.com/u/Ishanwalia/)
 [![Linkedin: Ishanwalia](https://img.shields.io/badge/LinkedIn-Ishanwalia-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishanwalia/)
-[![GitHub Ishanwalia](https://img.shields.io/github/followers/ishanwalia7579?label=follow&style=social)](https://github.com/ishan-walia)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-IshanWalia-FE7A16?logo=stack-overflow)](https://stackoverflow.com/users/your-id)
-![TryHackMe Stats](https://tryhackme-stats.vercel.app/api/thm-stats?username=Ishanwalia)
 
 <br>
 <p>
