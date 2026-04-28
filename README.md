@@ -19,7 +19,7 @@
 
   
 </p>
-<h2>🔐 Cyber Security</h2>
+<h2> Cyber Security</h2>
 
 <p align="center">
   <!-- OS -->
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Aircrack--ng-blue?style=for-the-badge"/>
 </p>
 
-<h2>📱 App Development</h2>
+<h2> App Development</h2>
 <p align="center">
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
 </p>
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ishan-walia&theme=onestar&row=2&column=4&no-bg=true&no-frame=true&margin-w=22&margin-h=20" alt="GitHub Trophies" />
 </div>
@@ -70,7 +70,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&width=600&center=true&lines=Open+Source+Champion;Code+Streak+Maintainer;Building+Impactful+Projects;Let's+Build+Together!"/>
 </div>
-### 📊 GitHub Stats
+📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ishan-walia&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-walia&theme=radical" alt="GitHub Streak" />
