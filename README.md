@@ -12,22 +12,9 @@
 
 <br>
 <p>
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" 
-    width="180" 
-    alt="Funny error animation">
- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="190" alt="Coding Meme"/>
-   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Debugging"/>
-  
-  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="200" alt="Works First Try"/>
-  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="220" alt="Waiting for code to compile"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajl6OW14dDNuMnRsaHFlOHR6bGQzNTdiZnFtdjF2NWR1OXV0YjhpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif" width="220"/>
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Uxanh2NHV6eGc1emM4eXFkNnl6N2oyZ3ozajJ3dG9zb3dzYWNmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="220"/>
 </p>
-
-
-
-
-
-
 <h2>🚀 Languages</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
@@ -47,33 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-</p>
-<h3 align="center">🌐 Connect with me</h3>
-
-<p align="center">
-  <a href="https://codepen.io/ishan-coder" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ishan-walia-734621324/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
-  
-  <a href="https://instagram.com/_coding._.club" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-  </a>
-  
-  <a href="https://youtube.com/@coding._.club" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/>
-  </a>
-  
-  <a href="https://www.hackerrank.com/profile/waliaishanipshi1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/>
-  </a>
-  
-  <a href="https://www.geeksforgeeks.org/user/waliaisha3lxi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/>
-  </a>
 </p>
 ## 🏆 GitHub Achievements
 <div align="center">
