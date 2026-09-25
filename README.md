@@ -3,9 +3,11 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ishan-walia&color=blue)](https://github.com/ishan-walia)]
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2054%20mins-blue)
 
+[![HackTheBox](https://img.shields.io/badge/HACKTHEBOX-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019c3273-a41b-7338-9b6a-7c0cefb77111)
 
-[![Leetcode: Ishanwalia](https://img.shields.io/badge/LeetCode-Ishanwalia-orange)](https://leetcode.com/u/Ishanwalia/)
-[![Linkedin: Ishanwalia](https://img.shields.io/badge/LinkedIn-Ishanwalia-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishanwalia/)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ishanwalia)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanwalia/)
 
 <br>
 <p>
