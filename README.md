@@ -2,13 +2,16 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ishan-walia&color=blue)](https://github.com/ishan-walia)]
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2054%20mins-blue)
-<p align="left">
-  
-[![HackTheBox](https://img.shields.io/badge/HACKTHEBOX-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019c3273-a41b-7338-9b6a-7c0cefb77111)
-
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ishanwalia)
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanwalia/)
+<p>
+  <a href="https://profile.hackthebox.com/profile/019c3273-a41b-7338-9b6a-7c0cefb77111" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/HACKTHEBOX-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox">
+  </a>
+  <a href="https://tryhackme.com/p/Ishanwalia" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://www.linkedin.com/in/ishanwalia/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 <br>
 <p>
