@@ -68,24 +68,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
 </p>
 
-##  GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishan-walia&theme=onestar&row=2&column=4&no-bg=true&no-frame=true&margin-w=22&margin-h=20" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&width=600&center=true&lines=Open+Source+Champion;Code+Streak+Maintainer;Building+Impactful+Projects;Let's+Build+Together!"/>
-</div>
-📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
-<br>
-
-[![Ishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishan-walia&bg_color=0d1117&color=00fffb&line=00fffb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
